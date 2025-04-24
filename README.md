@@ -20,6 +20,10 @@ Hava aracının kamerası ile kara aracı tespit edilir.
 
 Sistem kara aracının anlık GPS konumunu hesaplar
 
+
+
+![Image](https://github.com/user-attachments/assets/9193dcfc-43a1-47f6-95b1-2d04b5d8061c)
+
 Kara aracının hareket yönü ve hızı analiz edilir
 
 Gelecek konum tahminleri yapılır
